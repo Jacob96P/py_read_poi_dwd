@@ -10,3 +10,7 @@ Notwendig sind:
 * stationen_poi.csv zur Definition der Stationen die genutzt werden sollen
 * config.ini zum definieren weiterer Parameter (Pfade, URLs)
 * diverse Python-Module, darunter das logger-Modul
+
+## TO-DOs vor dem starten
+* Pfade in config-ini anpassen
+* postgreSQL-DB Verbindungsparameter in config-ini anpassen
