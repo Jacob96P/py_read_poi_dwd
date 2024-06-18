@@ -1,0 +1,8 @@
+surface_description,einheit,parameter_tabelle,parameter_csv_dwd
+cloud_cover_total,%,wolkenbedeckung,Wolkenbedeckung
+precipitation_amount_last_hour,mm,niederschlag_letzte_stunde,Niederschlag (letzte Stunde)
+dry_bulb_temperature_at_2_meter_above_ground,Grad C,temperatur,Temperatur (2m)
+maximum_wind_speed_last_hour,km/h,windboen_letzte_stunde,Windboen (letzte Stunde)
+mean_wind_speed_during last_10_min_at_10_meters_above_ground,km/h,windgeschwindigkeit,Windgeschwindigkeit
+mean_wind_direction_during_last_10 min_at_10_meters_above_ground,Grad,windrichtung,Windrichtung
+pressure_reduced_to_mean_sea_level,hPa,druck_auf_meereshoehe,Druck (auf Meereshoehe)
